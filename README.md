@@ -10,7 +10,10 @@ Les points sont gagnés en vendant des objets, puis peuvent être utilisés pour
 
 <br>
 
-- Énoncé : lien PDF
+- Énoncé : [lien PDF](https://github.com/SandrineZ3/projetEncheresENI/blob/main/scenario/Enonce.pdf)
+- Document de vision : [lien PDF](https://github.com/SandrineZ3/projetEncheresENI/blob/main/scenario/DocumentDeVision.pdf)
+- Diagrammes : [lien PDF](https://github.com/SandrineZ3/projetEncheresENI/blob/main/scenario/Diagrammes.pdf)
+- Maquettes : [lien PDF](https://github.com/SandrineZ3/projetEncheresENI/blob/main/scenario/Maquettes.pdf)
 
 <br>
 
